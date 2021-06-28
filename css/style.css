@@ -1,0 +1,364 @@
+*{
+    font-family: 'Maven Pro', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+}
+/* HEADER PART OPEN */
+.banner{
+    background-image: url(../img/Fitnessbann.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.hedmenu a{
+    color: #fff !important;
+}
+.bannercontent {
+	color: #FFFFFF;
+	padding-top: 420px;
+	margin-left: 100px;
+}
+.bannercontent h2 {
+	font-size: 35px;
+	font-weight: 400;
+}
+.bannercontent h2 span {
+	color: #A2CA28;
+	font-size: 25px;
+	font-size: bold;
+	font-weight: bold;
+}
+.bannercontent p {
+	margin-left: 150px;
+	font-size: 17px;
+	font-family: Open Sans', sans-serif';
+	font-weight: 500;
+	margin-top: -12px;
+}
+.bannercontent p span {
+	color: #FD634E;
+    font-weight: bold;
+}
+/* HEADER PART END */
+/* SERVICES & FETURE PART OPEN */
+/* SERVICES PART  */
+.services_feture{
+    background-color: #A2CA28;
+    padding-top: 50px;
+}
+.services {
+	color: #fff;
+    padding: 30px 0px;
+}
+.services span {
+	font-size: 37px;
+    padding-bottom: 10px;
+
+}
+.services h2 {
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+.services p {
+	font-size: 14px;
+}
+.services a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 17px !important;
+}
+.services a span {
+	font-size: 15px;
+	padding-left: 4px;
+}
+/* FETURE PART 1  */
+.fetureContent{
+    background-color: #fff;
+}
+.fetureContent span {
+	color: #FD7563;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-weight: 500;
+}
+.fetureContent h2 {
+	color: #A4CB2F;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 30px;
+	padding: 5px 0px;
+}
+.fetureContent img {
+	margin-bottom: 10px;
+}
+.fetureContent p {
+	color: #676F75;
+	font-size: 16px;
+}
+.fetureContent a {
+	color: #AACE3B;
+	font-size: 15px;
+	padding: 7px 0px;
+	display: block;
+	text-transform: capitalize;
+}
+/* FETURE IMG  */
+.fetureimg {
+	background-image: url(../img/Fitness2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 357px;
+}
+.fetureimg h5 {
+	font-size: 15px;
+	color: #E25946;
+	float: right;
+	padding-top: 295px;
+	padding-right: 51px;
+}
+.fetureimg h5 span{
+    color: #fff;
+}
+.fetureimg h5 span img {
+	width: 16px;
+    margin-left: 8px;
+}
+/* FETURE PART 2  */
+/* FETURE IMG  */
+.fetureimg2 {
+	background-image: url(../img/Fitness3.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 373px;
+}
+.fetureimg2 h5 {
+	font-size: 15px;
+	color: #E25946;
+	padding-top: 315px;
+	padding-left: 50px;
+}
+.fetureimg2 h5 span{
+    color: #fff;
+}
+.fetureimg2 h5 span img{
+    width: 16px;
+    margin-left: 8px;
+}
+/* FETURE CONTENT  */
+.fetureContent2{
+    background-color: #fff;
+}
+.fetureContent2 span{
+    color: #FD7563;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-weight: 500;
+}
+.fetureContent2 h2{
+    color: #A4CB2F;
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 30px;
+	padding:10px 0px;
+}
+.fetureContent2 img{
+    margin-bottom: 10px;
+}
+.fetureContent2 p{
+    color: #676F75;
+	font-size: 16px;
+}
+.fetureContent2 a{
+    color: #AACE3B;
+	font-size: 15px;
+	padding: 10px 0px;
+	display: block;
+	text-transform: capitalize;
+}
+
+/* SERVICES & FETURE PART END */
+/* LIFE STYLE PART OPEN  */
+.life{
+    background-color: #FD634E;
+}
+.row1left{}
+.row1left img {
+	width: 100%;
+}
+.row1right {
+	background-image: url(../img/Fitness4.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 331px;
+}
+.row1right h2 {
+	color: #FAFCFC;
+	font-size: 14px;
+	padding-top: 60px;
+}
+.row2left {
+	background-color: #fff;
+}
+.row2left span {
+	color: #FD6C58;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.row2left h2 {
+	color: #AFD149;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 400;
+	padding-bottom: 15px;
+}
+.row2left p {
+	font-size: 15px;
+	color: #191919d6;
+	line-height: 16px;
+}
+
+.row2right {
+	background-color: #A2CA28;
+	padding: 54px 25px !important;
+	color: #fff;
+}
+.row2right h2 {
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 32px;
+}
+.row2right p {
+	font-size: 14px;
+	color: #ffffffbf;
+}
+
+.row3left{}
+.row3left img{
+    width: 100%;
+}
+.row3right {
+	background-image: url(../img/Fitness6.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 340px;
+}
+
+
+.row4left {
+	background-color: #fff;
+	padding: 36px 25px !important;
+}
+.row4left span {
+	color: #FD6C58;
+	font-size: 17px;
+	text-transform: uppercase;
+	font-weight: 500;
+}
+.row4left h2 {
+	color: #AFD149;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight: 400;
+	padding-bottom: 15px;
+}
+.row4left p {
+	font-size: 15px;
+	color: #191919d6;
+	line-height: 16px;
+}
+.row4right {
+	background-color: #A2CA28;
+	padding: 25px 25px !important;
+	color: #fff;
+}
+.row4right h2 {
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 32px;
+}
+.row4right p {
+	font-size: 14px;
+	color: #ffffffbf;
+}
+
+/* LIFE STYLE PART END   */
+
+/* LEDER PART OPEN  */
+.lead{
+	background-image: url(../img/Fitness8.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	clip-path: polygon(100% 81%, 50% 93%, 0 80%, 0 0, 100% 0);
+
+
+
+}
+.leadcontent {
+	padding: 268px 0px;
+	color: #fff;
+}
+.leadcontent h2 {
+	font-size: 25px;
+}
+.leadcontent p {
+	font-size: 17px;
+	line-height: 18px;
+}
+/* LEDER PART END  */
+
+/* FOOTER PART OPEN   */
+.footer {
+	background-color: black;
+	color: #fff;
+	padding-top: 240px;
+	margin-top: -152px;
+	padding-bottom: 60px;
+}
+.footercontent{}
+.footercontent h2 {
+	color: #D2D2D3;
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+.footercontent p {
+	color: #8297A7;
+	font-size: 16px;
+	line-height: 20px;
+}
+.social{}
+.social ul {
+	padding-left: 0;
+	list-style-type: none;
+}
+.social ul li {
+	display: inline-block;
+}
+.social ul li a {
+	font-size: 20px;
+	/* padding: 10px 12px; */
+	display: block;
+	color: #ddd;
+	border-radius: 50%;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	line-height: 45px;
+}
+.social ul li:nth-child(1) a{
+	background-color: #2E3192;
+}
+.social ul li:nth-child(2) a{
+	background-color: #00AEEF;
+}
+.social ul li:nth-child(3) a{
+	background-color: #ED3123;
+}
+.social ul li:nth-child(4) a{
+	background-color: #171A8F;
+}
+
+.mybtn{
+	background-color: #A2CA28;
+	color: #fff;
+}
+/* FOOTER PART END   */
